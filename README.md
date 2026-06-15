@@ -42,5 +42,5 @@ With a strong foundation in core web technologies, here are the tools and langua
 
 ### 📬 Connect With Me
 
-* 📧 **Email:** [sra.arumugam.tr1819@gmail.com](mailto:sra.arumugam.tr1819@gmail.com)
+* 📧 **Email:** [arunachalamtoro@gmail.com](mailto:sra.arumugam.tr1819@gmail.com)
 * 💼 **Organization:** [BRICK AI](https://github.com/arunachalamtoro)
