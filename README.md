@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=250&section=header&text=Arunachalam%20Toro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Automation&descAlignY=55&descAlign=50" width="100%" />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k6B5Sr7P/Screenshot-2026-06-15-183312.png" alt="Screenshot 2026 06 15 183312" border="0"></a>
 
 <br>
 
